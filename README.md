@@ -2,13 +2,13 @@
 
 ## Requirments of the assignment
 
-1. Explain the background to the dataset
-* Who created it
-* When it was created 
-* Any speculation you can find on how it might of been created
-2. Plot the interesting aspects of the dataset
-3. Calculate the descriptive statistics of the variables in the dataset 
-4. Explain why the dataset is interesting - refer to its plots and statistics
+1.  Explain the background to the dataset
+    * Who created it
+    * When it was created 
+    * Any speculation you can find on how it might of been created  
+2.   Plot the interesting aspects of the dataset
+3.  Calculate the descriptive statistics of the variables in the dataset 
+4.  Explain why the dataset is interesting - refer to its plots and statistics
 
 ### Other requirments 
 
@@ -19,10 +19,10 @@
 5. Assignment deadline 11/11/2018 at midnight
 6. README file containing an explanation of what is in the repository and how to run jupyter notebook. 
 7. Jupyter notebook with the report on Anscombe's quartet dataset
-* Explain the dataset
-* Have well conceived, interesting and well researched project
-* Assignment covers jupyter notebook so include fancy stuff like images, links, code and plots
-* Any python package that you fancy. 
+    * Explain the dataset
+    * Have well conceived, interesting and well researched project
+    * Assignment covers jupyter notebook so include fancy stuff like images, links, code and plots
+    * Any python package that you fancy. 
 8. gitignore file
 
 
