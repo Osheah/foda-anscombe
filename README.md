@@ -2,28 +2,28 @@
 
 ## Requirments of the assignment
 
-   1. Explain the background to the dataset
-       a. Who created it
-       b. when it was created, 
-       c. Any speculation you can find on how it might of been created
-   2. Plot the interesting aspects of the dataset
-   3. Calculate the descriptive statistics of the variables in the dataset 
-   4. Explain why the dataset is interesting - refer to its plots and statistics
+1. Explain the background to the dataset
+    a. Who created it
+    b. when it was created, 
+    c. Any speculation you can find on how it might of been created
+2. Plot the interesting aspects of the dataset
+3. Calculate the descriptive statistics of the variables in the dataset 
+4. Explain why the dataset is interesting - refer to its plots and statistics
 
 ### Other requirments 
 
-   1. Use github version control in public repo
-   2. Upload repo url to the assignment section on student page. 
-   3. Commit history of at least 10
-   4. Meaningful commit messages
-   5. Assignment deadline 11/11/2018 at midnight
-   6. README file containing an explanation of what is in the repository and how to run jupyter notebook. 
-   7. Jupyter notebook with the report on Anscombe's quartet dataset
-        a. Explain the dataset
-        b. Have well conceived, interesting and well researched project
-        c. Assignment covers jupyter notebook so include fancy stuff like images, links, code and plots
-        d. Any python package that you fancy. 
-    8. gitignore file
+1. Use github version control in public repo
+2. Upload repo url to the assignment section on student page. 
+3. Commit history of at least 10
+4. Meaningful commit messages
+5. Assignment deadline 11/11/2018 at midnight
+6. README file containing an explanation of what is in the repository and how to run jupyter notebook. 
+7. Jupyter notebook with the report on Anscombe's quartet dataset
+    a. Explain the dataset
+    b. Have well conceived, interesting and well researched project
+    c. Assignment covers jupyter notebook so include fancy stuff like images, links, code and plots
+    d. Any python package that you fancy. 
+8. gitignore file
 
 
 
