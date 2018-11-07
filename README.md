@@ -68,6 +68,7 @@ The gitignore file ignores the .git and .ipynb_checkpoints in the local folder. 
 * LICENSE - Apache License Version 2.0, January 2004
 * README.md - this readme
 * anscombe.ipynb - The main body of the assignment
+* anscombe1973.pdf - F. Anscombe's original article from 1973
 
 
 ## Jupyter 
