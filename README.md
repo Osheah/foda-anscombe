@@ -143,5 +143,6 @@ This project is licensed under the  Apache License Version 2.0, January 2004 - s
 
 ## Acknowledgments
 
+* Thanks to [lwgray](https://github.com/lwgray/yellowbrick/blob/fcd6e2dfc030c7d0cee04372643d7f7c74a712ef/yellowbrick/datasaurus.py)for the dino code. 
 * Thanks to my family for giving me time to do this assignment
 * Thanks to the Wikipedia community 
