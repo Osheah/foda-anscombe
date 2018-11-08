@@ -91,7 +91,7 @@ I will describe the cmder approach.
 
 Open cmder in your home directory or from a folder within the home directory. Jupyter notebook will only be able to access this folder and any sub folders for example... 
 ```
-C:\Users\Helen\Desktop\GMIT\github\
+C:\Users\Username\Desktop\Workfolder\
 ```
 
    * Create a repo on github [GitHub Repo](https://github.com/Osheah/foda-anscombe)
@@ -103,7 +103,7 @@ Go to cmder and enter for example  ...
 git clone https://github.com/Osheah/foda-anscombe.git
 git init
 ```
-Open jupyter using the command...
+Open jupyter notebook using the command...
 
 ```
 jupyter notebook
@@ -114,11 +114,11 @@ A browser should open linking the current directory in cmder to an jupyter versi
 
 ### create a jupyter notebook
 
-Navigate to your cloned folder from within the Jupyter notebook home. On the right click the 'new' button and select python 3. A new jupyter notebook for python 3 will open with the default title *untitled*. Click on the name *untitled* and rename it e.g. anscombe.ipynb. Details on how to create cells in jupyter notebook can be found here [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#basic-workflow). Save any work (although it is usually saved automatically). 
+Navigate to your cloned folder from within the Jupyter notebook home. On the right click the 'new' button and select python 3. A new jupyter notebook for python 3 will open with the default title *untitled*. Click on the name *untitled* and rename it e.g. project.ipynb. Details on how to create cells in jupyter notebook can be found here [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#basic-workflow). Save any work (although it is usually saved automatically). 
 
 ### ending a jupyter notebook session
 
-Save any unsaved jupyter notebooks. Close jupyter notebook windows in your browser. Go to cmder and enter **control + c** i.e. the control key and the c key pressed at the same time. This shuts the ipython kernal that jupyter uses. Upload your notebook to github via the commands below; Make sure that you are in the directory that git is initialised in e.g. C:\Users\Helen\Desktop\GMIT\github\foda-anscombe\
+Save any unsaved jupyter notebooks. Close jupyter notebook windows in your browser. Go to cmder and enter **control + c** i.e. the control key and the c key pressed at the same time. This shuts the ipython kernal that jupyter uses. Upload your notebook to github via the commands below; Make sure that you are in the directory that git is initialised in e.g. C:\Users\Username\Desktop\Workfolder\project\
 
 ```
 git status
@@ -143,7 +143,5 @@ This project is licensed under the  Apache License Version 2.0, January 2004 - s
 
 ## Acknowledgments
 
-* Thanks to 
-* Thanks to  
-* Thanks to
-
+* Thanks to my family for giving me time to do this assignment
+* Thanks to the Wikipedia community 
