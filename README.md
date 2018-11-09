@@ -101,7 +101,7 @@ Go to cmder and enter for example  ...
 
 ```
 git clone https://github.com/Osheah/foda-anscombe.git
-git init
+
 ```
 Open jupyter notebook using the command...
 
@@ -123,7 +123,7 @@ Save any unsaved jupyter notebooks. Close jupyter notebook windows in your brows
 ```
 git status
 git add .
-git commit -m "add a relivent commit message"
+git commit -m "add a relevant commit message"
 git push
 ```
 
