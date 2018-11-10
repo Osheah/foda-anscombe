@@ -65,11 +65,11 @@ The gitignore file ignores the .git and .ipynb_checkpoints in the local folder. 
 * img - various images used within the report; 
 * .gitignore - gitignore file taken from [gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore)
 * Anscombe.csv dataset taken from [Anscombe](https://web.stanford.edu/class/cs102/datasets/Anscombe.csv)
-* LICENSE - Apache License Version 2.0, January 2004
-* README.md - this readme
 * anscombe.ipynb - The main body of the assignment
 * anscombe1973.pdf - F. Anscombe's original article from 1973
-
+* DatasaurusDozen.csv extracted from [DataSaurus](https://www.autodeskresearch.com/sites/default/files/The%20Datasaurus%20Dozen.zip) imported into excel and saved as csv.
+* LICENSE - Apache License Version 2.0, January 2004
+* README.md - this readme
 
 ## Jupyter 
 
@@ -143,6 +143,6 @@ This project is licensed under the  Apache License Version 2.0, January 2004 - s
 
 ## Acknowledgments
 
-* Thanks to [lwgray](https://github.com/lwgray/yellowbrick/blob/fcd6e2dfc030c7d0cee04372643d7f7c74a712ef/yellowbrick/datasaurus.py)for the dino code. 
+
 * Thanks to my family for giving me time to do this assignment
 * Thanks to the Wikipedia community 
