@@ -100,7 +100,7 @@ C:\Users\Username\Desktop\Workfolder\
 Go to cmder and enter for example  ...
 
 ```
-git clone https://github.com/Osheah/foda-anscombe.git
+git clone https://github.com/User/repo-name.git
 
 ```
 Open jupyter notebook using the command...
